@@ -55,6 +55,7 @@ body {
   background-color: #F4D04E;
   border-radius: 4px;
   margin-top: 24px;
+  color: #111111;
 }
 .container_date {
   font-size: 14px;
@@ -72,11 +73,14 @@ body {
     font-size: 23px;
   }
 }
+.container h2:hover {
+  color: #F4D04E;
+}
 .container_description {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0%;
-  opacity: 60%;
+  color: #6B6B6B;
 }
 @media (max-width: 375px) {
   .container_description {
@@ -98,4 +102,5 @@ body {
   line-height: 150%;
   letter-spacing: 0%;
   font-weight: bold;
+  color: #111111;
 }/*# sourceMappingURL=style.css.map */

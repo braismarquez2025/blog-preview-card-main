@@ -71,6 +71,7 @@ body {
         background-color: $yellow;
         border-radius: 4px;
         margin-top: 24px;
+        color: $negro;
     }
 
     &_date {
@@ -89,13 +90,17 @@ body {
             font-size: 23px;
         }
 
+        &:hover {
+            color: $yellow;
+        }
+
     }
 
     &_description {
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0%;
-        opacity: 60%;
+        color: $gris;
 
         @include breakpoint(mobile) {
             font-size: 15px;
@@ -117,6 +122,7 @@ body {
             line-height: 150%;
             letter-spacing: 0%;
             font-weight: bold;
+            color: $negro;
         }
     }
 }
