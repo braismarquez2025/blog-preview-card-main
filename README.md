@@ -13,7 +13,7 @@ Esta es una solución al [desafío de tarjeta de vista previa al blog en Fronten
 ## Descripción general
 
 ### Captura de pantalla
-![](./assets\images\Frontend-Mentor-Blog-preview-card-04-20-2025_05_07_PM.png)
+![](./assets/images/Frontend-Mentor-Blog-preview-card-04-20-2025_05_07_PM.png)
 
 
 ### Links
