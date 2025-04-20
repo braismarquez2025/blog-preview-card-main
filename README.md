@@ -17,8 +17,8 @@ Esta es una solución al [desafío de tarjeta de vista previa al blog en Fronten
 
 
 ### Links
-- URL de la solución: https://www.frontendmentor.io/solutions/pgina-de-tarjeta-de-vista-previa-al-blog-con-html-y-css-trMPSYSVMz
-- URL del sitio en vivo: https://braismarquez2025.github.io/blog-preview-card-main/
+- [URL de la solución] (https://www.frontendmentor.io/solutions/pgina-de-tarjeta-de-vista-previa-al-blog-con-html-y-css-trMPSYSVMz)
+- [URL del sitio en vivo] (https://braismarquez2025.github.io/blog-preview-card-main/)
 
 
 ### Llevado a cabo con
