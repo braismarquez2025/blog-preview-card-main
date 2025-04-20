@@ -7,13 +7,8 @@ Esta es una solución al [desafío de tarjeta de vista previa al blog en Fronten
 - [Descripción general](#descripcion-general)
   - [Captura de pantalla](#captura-de-pantalla)
   - [Links](#links)
-- [Mi proceso](#mi-proceso)
   - [Llevado a cabo con](#llevado-a-cabo-con)
-  - [Lo que aprendí](#lo-que-aprendi)
-  - [Desarrollo continuo](#desarrollo-continuo)
-  - [Recursos útiles](#recursos-utiles)
-- [Autor](#autor)
-- [Agradecimientos](#agradecimientos)
+  - [Autor](#autor)
 
 ## Descripción general
 
@@ -25,8 +20,6 @@ Esta es una solución al [desafío de tarjeta de vista previa al blog en Fronten
 - URL de la solución: https://www.frontendmentor.io/solutions/pgina-de-tarjeta-de-vista-previa-al-blog-con-html-y-css-trMPSYSVMz
 - URL del sitio en vivo: https://braismarquez2025.github.io/blog-preview-card-main/
 
-
-## Mi proceso
 
 ### Llevado a cabo con
 
