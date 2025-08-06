@@ -2,7 +2,7 @@
 
 Esta es una solución al [desafío de tarjeta de vista previa al blog en Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Los desafíos de Frontend Mentor te ayudan a mejorar tus habilidades de programación creando proyectos realistas.
 
-## 🟡 Descripción general
+## 🔎 Descripción general
 
 ### 📷 Captura de pantalla
 ![](./assets/images/Frontend-Mentor-Blog-preview-card-04-20-2025_05_07_PM.png)
